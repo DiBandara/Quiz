@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.project" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+    <style name="Theme.project" parent="Base.Theme.project"/>
+    <style name="CircularImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
